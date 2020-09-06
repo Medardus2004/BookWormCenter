@@ -1,0 +1,10 @@
+C:\Users\Sir Tobi\Documents\BookWormCenter\BookWormCenter\ProjectBookworm\ProjectBookworm\bin\Debug\ProjectBookworm.exe.config
+C:\Users\Sir Tobi\Documents\BookWormCenter\BookWormCenter\ProjectBookworm\ProjectBookworm\bin\Debug\ProjectBookworm.exe
+C:\Users\Sir Tobi\Documents\BookWormCenter\BookWormCenter\ProjectBookworm\ProjectBookworm\bin\Debug\ProjectBookworm.pdb
+C:\Users\Sir Tobi\Documents\BookWormCenter\BookWormCenter\ProjectBookworm\ProjectBookworm\obj\Debug\ProjectBookworm.csprojAssemblyReference.cache
+C:\Users\Sir Tobi\Documents\BookWormCenter\BookWormCenter\ProjectBookworm\ProjectBookworm\obj\Debug\ProjectBookworm.Form1.resources
+C:\Users\Sir Tobi\Documents\BookWormCenter\BookWormCenter\ProjectBookworm\ProjectBookworm\obj\Debug\ProjectBookworm.Properties.Resources.resources
+C:\Users\Sir Tobi\Documents\BookWormCenter\BookWormCenter\ProjectBookworm\ProjectBookworm\obj\Debug\ProjectBookworm.csproj.GenerateResource.cache
+C:\Users\Sir Tobi\Documents\BookWormCenter\BookWormCenter\ProjectBookworm\ProjectBookworm\obj\Debug\ProjectBookworm.csproj.CoreCompileInputs.cache
+C:\Users\Sir Tobi\Documents\BookWormCenter\BookWormCenter\ProjectBookworm\ProjectBookworm\obj\Debug\ProjectBookworm.exe
+C:\Users\Sir Tobi\Documents\BookWormCenter\BookWormCenter\ProjectBookworm\ProjectBookworm\obj\Debug\ProjectBookworm.pdb

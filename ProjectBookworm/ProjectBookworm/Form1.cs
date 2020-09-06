@@ -16,5 +16,10 @@ namespace ProjectBookworm
         {
             InitializeComponent();
         }
+
+        private void verschluessel_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(AusgabeVerschluessel.Text);
+        }
     }
 }
